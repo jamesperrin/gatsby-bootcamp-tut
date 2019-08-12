@@ -1,3 +1,5 @@
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -5,8 +7,13 @@
   </a>
 </p>
 
-# [Gatsby JS - The Great Gatsby Bootcamp (Full Tutorial)](https://www.youtube.com/watch?v=8t0vNu2fCCM)
+# Gatsby JS - The Great Gatsby Bootcamp
 
+The purpose of this repository is to track my progress through the [Gatsby JS - The Great Gatsby Bootcamp (Full Tutorial)](https://www.youtube.com/watch?v=8t0vNu2fCCM) by [Adrew Mead](https://www.youtube.com/channel/UCScXYvmDD7hyFVX6X5ZwE_Q).
+
+Live demo website: https://laughing-lamarr-d3e104.netlify.com/
+
+---
 
 Gatsby is a framework for creating blazing fast websites and web applications. Powered by React and GraphQL, Gatsby gives you everything you need to build and launch your next project.
 
