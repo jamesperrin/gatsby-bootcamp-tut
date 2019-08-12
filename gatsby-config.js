@@ -13,10 +13,11 @@ module.exports = {
         author: 'James Perrin'
     },
     plugins: [
+        'gatsby-plugin-react-helmet',
         {
             resolve: 'gatsby-source-contentful',
             options: {
-                 spaceId: process.env.CONTENTFUL_SPACE_ID,
+                spaceId: process.env.CONTENTFUL_SPACE_ID,
                 accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
             }
         },
